@@ -1,0 +1,4 @@
+Neutral  ->Hello
+Neutral  ->How are you?
+Positive  ->I am in a good mood today.
+Negative ->Yesterday, I was sad.
