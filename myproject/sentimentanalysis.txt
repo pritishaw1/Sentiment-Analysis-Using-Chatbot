@@ -1,0 +1,8 @@
+Neutral  ->Hello
+Neutral  ->How are you?
+Positive  ->I am in a good mood today.
+Negative ->Yesterday, I was sad.
+Neutral  ->Hi
+Positive  ->I'm good.
+Negative ->Don't be a bad bot.
+Negative ->Don't be a bad bot.
